@@ -1,0 +1,24 @@
+.HeroSwiper .swiper-wrapper .slide-item {
+  max-height: 600px;
+  display: flex;
+  align-items: center;
+  border-radius: 0.8em;
+  overflow: hidden;
+}
+
+* ::-webkit-scrollbar {
+  width: 1px;
+  background-color: #182131;
+}
+* ::-webkit-scrollbar-thumb {
+  background-color: gray;
+}
+
+.hero-section {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.hero-section .hero-inner {
+  min-height: 800px;
+}/*# sourceMappingURL=index.css.map */
