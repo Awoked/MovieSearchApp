@@ -9,7 +9,7 @@ const Header = () => {
             <div className="container mx-auto">
                 <div className="header-inner flex items-center gap-3 relative p-4">
                     <div className="logo lg:absolute z-20">
-                        <Link reloadDocument to={"/"}>
+                        <Link reloadDocument to={"/MovieSearchApp/"}>
                             <img src={Logo} alt="Logo" />
                         </Link>
                     </div>
